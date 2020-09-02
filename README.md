@@ -1,5 +1,8 @@
-# remeainder
-remeainder
-hi pranav sorry you should not open pycharm today usnless you study databases in python
-link  =  https://www.tutorialspoint.com/python/python_database_access.htm
-link  =  https://realpython.com/tutorials/databases/
+# hi here are the liks for racing and games like flappy and hextris
+link = https://pranavramesh123.github.io/hexgl/
+
+link = https://pranavramesh123.github.io/game2048/
+
+link = https://pranavramesh123.github.io/hextris/.
+
+link = https://pranavramesh123.github.io/flappy/
